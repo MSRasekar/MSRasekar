@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Full Stack Development, focusing on Angular, and ASP.NET Core. Developing a Utility Billing App.<br>🤝 Looking for help with: Expanding knowledge in Azure DevOps and cloud computing.<br>🌱 Learning: DevOps practices, including CI/CD and Docker.<br>💬 Ask me about: Full Stack Development, software development.<br>⚡ Fun fact: Passionate problem solver who enjoys puzzles and brain teasers in free time.
+🔭 Currently working on: Full Stack Development, focusing on Angular, and ASP.NET Core. Developing a Utility Billing App.<br>🤝 Looking for help with: Expanding knowledge in Azure DevOps.<br>💬 Ask me about: Full Stack Development.<br>⚡ Fun fact: Passionate problem solver who enjoys puzzles and brain teasers in free time.
 
 
 ## 🌐 Socials:
